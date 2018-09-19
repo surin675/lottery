@@ -1,5 +1,4 @@
-# student-course
-Learn &amp; do
+# Lottery Test
 
 # Installation
 - Clone git this Repository.
