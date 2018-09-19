@@ -2,7 +2,7 @@
 
 # Installation
 - Clone git this Repository.
-- Open command line cd to projdct and then press "composer install" and enter.
+- Open command line cd to project and then press "composer install" and enter.
 - Create file .env and config data in this file.
 - Create Database and database name same .env file.
 - Open command line and press "php artisan key:generate" and enter.
